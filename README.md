@@ -1,5 +1,5 @@
 # Nuxt Modules
-
+--
 [![automated](https://flat.badgen.net/badge/publish/automated/green)](#)
 [![npm version](https://flat.badgen.net/npm/v/@nuxt/modules)](https://www.npmjs.com/package/@nuxt/modules)
 
