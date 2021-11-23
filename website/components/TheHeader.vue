@@ -3,7 +3,7 @@
     <h1
       class="text-display-5 sm:text-display-4 md:text-display-3 pb-1 sm:pb-2 md:pb-6 font-serif overflow-ellipsis overflow-hidden"
     >
-      Explore
+      Explore abc
       <span class="text-primary-800 dark:text-primary">Nuxt</span> Modules
     </h1>
     <p
@@ -15,7 +15,7 @@
         rel="noopener"
         target="_blank"
         class="border-b border-current hover:text-green-500 hover:border-green-600"
-      >Nuxt project</a>. Created by the Nuxt team and community.
+      >Nuxt project</a>. Created by the anybody.
     </p>
     <div class="max-w-xl mt-4 text-left">
       <a
