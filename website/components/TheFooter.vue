@@ -8,6 +8,9 @@
       <a href="https://nuxtjs.org" rel="noopener" target="_blank" aria-label="go to nuxt">
         <IconWithNuxt alt="Nuxt" />
       </a>
+      <a href="https://github.com/uvacoder" rel="noopener" target="_blank" aria-label="go to repo">
+        <IconWithNuxt alt="Nuxt" />
+      </a>
     </div>
   </footer>
 </template>
