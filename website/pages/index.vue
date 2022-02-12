@@ -53,7 +53,7 @@
           <h2
             class="text-2xl font-extrabold tracking-tight text-sky-darkest dark:text-sky-lightest"
           >
-            abc Nuxt version
+            Nuxt version
           </h2>
           <p class="text-sm text-gray-700 dark:text-gray-300 mb-4">
             Show modules working with:
