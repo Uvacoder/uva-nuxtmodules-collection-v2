@@ -3,8 +3,8 @@
   "name": "nuxt-modules-website",
   "version": "0.0.0",
   "scripts": {
-    "build": "yarn build:npm && nuxi build",
-    "dev": "yarn build:npm && nuxi dev",
+    "build": "nuxi build",
+    "dev": "nuxi dev",
     "build:npm": "cd .. && yarn build",
     "start": "node .output/server/index.mjs"
   },
