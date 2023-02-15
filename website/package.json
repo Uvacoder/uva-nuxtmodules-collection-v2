@@ -10,13 +10,10 @@
     "start": "node .output/server/index.mjs"
   },
   "resolutions": {
-    "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
-    "@nuxt/kit-edge": "npm:@nuxt/kit-edge@latest"
+    "@nuxt/kit": "^3.2.0"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.15",
-    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
-    "@nuxt/kit-edge": "npm:@nuxt/kit-edge@latest",
     "@nuxtjs/color-mode": "^3.2.0",
     "@nuxtjs/google-fonts": "^2.0.0",
     "@nuxtjs/html-validator": "^1.2.3",
@@ -24,7 +21,7 @@
     "@unocss/nuxt": "^0.49.4",
     "fuse.js": "^6.6.2",
     "millify": "^5.0.1",
-    "nuxt-edge": "^2.16.0-27720022.54e852f",
+    "nuxt": "^3.2.0",
     "nuxt-windicss": "^2.6.0",
     "ohmyfetch": "^0.4.21",
     "v-tooltip": "^2.1.3",
