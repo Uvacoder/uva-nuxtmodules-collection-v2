@@ -5,11 +5,11 @@
     "website"
   ],
   "scripts": {
-    "build": "yarn cli build",
+    "build": "yarn build",
     "dev": "cd website && yarn dev",
     "lint": "eslint --ext .vue,.ts .",
-    "release": "yarn cli version && cd npm && npm publish",
-    "sync": "yarn cli sync",
+    "release": "yarn version && cd npm && npm publish",
+    "sync": "yarn sync",
     "test": "yarn lint && yarn sync"
   },
   "devDependencies": {
