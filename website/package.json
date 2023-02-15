@@ -5,6 +5,7 @@
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
+    "generate": "nuxi generate",
     "build:npm": "cd .. && yarn build",
     "start": "node .output/server/index.mjs"
   },
